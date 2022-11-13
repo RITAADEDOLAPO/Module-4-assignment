@@ -1,0 +1,37 @@
+*{
+    background-color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first_section{
+    color: green;
+    text-align: center;
+}
+.second_section{
+    color: red;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 150px;
+    padding: 37px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.third_section{
+    color: blue;
+    text-align: center;
+    border-right: 7px solid blue;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.unordered_list li{
+    text-align: center;
+    list-style-type: none;
+}
+.first{
+    border-left: 5px solid green;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 20px;
+}
